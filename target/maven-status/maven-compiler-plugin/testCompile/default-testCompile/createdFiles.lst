@@ -1,0 +1,9 @@
+com\FrameworkTest\testCases\BaseClass.class
+com\FrameworkTest\testCases\TC_LoginTest001.class
+com\FrameworkTest\pageObjects\AddCustomerPage.class
+com\FrameworkTest\utilities\Reporting.class
+com\FrameworkTest\testCases\TC_LoginTest002.class
+com\FrameworkTest\utilities\ReadConfig.class
+com\FrameworkTest\testCases\TC_LoginTest003.class
+com\FrameworkTest\pageObjects\LoginPage.class
+com\FrameworkTest\utilities\XUtils.class
